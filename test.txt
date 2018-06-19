@@ -3,3 +3,5 @@ Test commit
 This a change. ; Change number one.
 
 This is another change. ; Change number two.
+
+This a furthe change. ; Change number three.
